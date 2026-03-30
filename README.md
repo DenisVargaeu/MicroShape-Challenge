@@ -6,7 +6,7 @@ Interaktívny vzdelávací projekt postavený na platforme micro:bit, ktorý pom
 
 ## 🧠 Ako to funguje
 
-Na displeji sa zobrazí názov tvaru v angličtine. Hráč musí správne vložiť alebo vybrať zodpovedajúci tvar.
+Na displeji sa zobrazí názov tvaru. Hráč musí správne vložiť zodpovedajúci tvar do otvoru.
 
 ---
 
@@ -26,19 +26,18 @@ Na displeji sa zobrazí názov tvaru v angličtine. Hráč musí správne vloži
 
 - micro:bit  
 - JavaScript / MicroPython (podľa implementácie)  
-- LED matica displeja  
-- podmienky (if / else logika)  
-- vstupy od používateľa
+- Display  
+
 
 ---
 
 ## 📦 Kód projektu
 
 👉 GitHub repository:  
-https://github.com/TVOJ-USERNAME/microshape-challenge
+https://github.com/denisvargaeu/microshape-challenge
 
 👉 Hlavný súbor:  
-`main.ts` alebo `main.py`
+`main.ts` 
 
 ---
 
